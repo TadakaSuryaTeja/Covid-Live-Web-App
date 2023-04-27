@@ -7,7 +7,7 @@ Clone the repository:
 
 '''python
 git clone https://github.com/yourusername/Covid-Live-Web-App.git
-'''
+
 
 Create a virtual environment:
 '''python
