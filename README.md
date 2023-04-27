@@ -38,5 +38,3 @@ The application displays a world map with circles representing the number of con
 
 The application also provides a search bar where you can enter the name of a country to view its Covid-19 statistics.
 
-# Data source
-The Covid-19 data used in this application is sourced from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
