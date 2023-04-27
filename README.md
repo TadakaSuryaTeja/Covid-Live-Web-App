@@ -2,27 +2,32 @@
 This is a web application that provides live updates on Covid-19 cases around the world. It is built using Python and Django.
 
 # Installation
+
 Clone the repository:
-```python
 
+'''python
 git clone https://github.com/yourusername/Covid-Live-Web-App.git
-Create a virtual environment:
+'''
 
-```python
+Create a virtual environment:
+'''python
 python3 -m venv env
 Activate the virtual environment:
+'''
 
-```python
+'''python
 source env/bin/activate
 Install the required packages:
+'''
 
-```python
+'''python
 pip install -r requirements.txt
+'''
 
 Run the Django server:
-```python
+'''python
 python manage.py runserver
-
+'''
 # Usage
 Once the server is running, you can access the web application by navigating to http://localhost:8000/ in your web browser.
 
