@@ -6,7 +6,7 @@ This is a web application that provides live updates on Covid-19 cases around th
 Clone the repository:
 
 ```python
-git clone [https://github.com/yourusername/Covid-Live-Web-App.git](https://github.com/TadakaSuryaTeja/Covid-Live-Web-App.git)
+git clone https://github.com/TadakaSuryaTeja/Covid-Live-Web-App.git
 ```
 
 Create a virtual environment:
